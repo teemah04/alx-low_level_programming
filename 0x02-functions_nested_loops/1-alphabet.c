@@ -5,7 +5,7 @@
  *
  * Return: Always 1.
  */
-void print_alphabe(void)
+void print_alphabet(void)
 {
 	char i;
 
