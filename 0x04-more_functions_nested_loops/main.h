@@ -3,4 +3,4 @@
 
 int _isupper(int c);
 int _isdgit(int c);
-int mul(int a, int b)
+int mul(int a, int b);
