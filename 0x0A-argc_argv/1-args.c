@@ -5,13 +5,13 @@
  * main-Entry point
  * @argc:argument count
  * @argv:argument vector
- * Return:0
+ * Return:success
  */
 
 int main(int argc, char *argv[])
 {
 	(void)argv;
-	printf("%d\n", argv - 1);
+	printf("%d\n", argc - 1);
 
 	exit(EXIT_SUCCESS);
 
