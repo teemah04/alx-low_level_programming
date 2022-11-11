@@ -8,7 +8,7 @@
  * Return:success
  */
 
-int main(nt argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	while (argc--)
 		printf("%s\n", *argv++);
