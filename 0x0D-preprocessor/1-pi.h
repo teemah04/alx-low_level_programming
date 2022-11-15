@@ -1,6 +1,6 @@
-#ifndef PI
-#define PI
+#ifndef Pl
+#define Pl
 
-#define PI 3.14159265359
+#define Pl 3.14159265359
 
 #endif
